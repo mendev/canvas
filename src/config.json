@@ -1,0 +1,27 @@
+{
+  "drawing-title":"Drawing 1",
+  "elements":[
+    {
+      "id":1,
+      "type":"circle",
+      "x-center":100,
+      "y-center":100,
+      "radius":30
+    },
+    {
+      "id":2,
+      "type":"line",
+      "x-start":300,
+      "y-start":150,
+      "x-end":500,
+      "y-end":200
+    },
+    {
+      "id":3,
+      "type":"circle",
+      "x-center":200,
+      "y-center":200,
+      "radius":30
+    }
+  ]
+}
